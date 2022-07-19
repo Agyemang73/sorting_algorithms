@@ -2,6 +2,7 @@
 #define HEADER
 /* Library */
 #include <stdio.h>
+#include <stddef.h>
 
 /* Structures */
 /**
